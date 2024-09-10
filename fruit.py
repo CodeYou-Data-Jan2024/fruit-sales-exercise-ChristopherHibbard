@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 # Create a dictionary with the data
